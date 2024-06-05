@@ -1,7 +1,7 @@
 ## Boas Vindas ao meu perfil 💝
 
 <Meu nome é Júlia Duarte
-- Estou estudando o ultimo ano da escola
+- Estou estudando no [Alura](HTTPS://WWW.ALURA.COM.BR)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
